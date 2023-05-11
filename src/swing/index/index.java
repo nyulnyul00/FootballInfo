@@ -16,7 +16,7 @@ public class index extends javax.swing.JFrame {
         setLayout(new BorderLayout());
         Color b=new Color(46, 64, 89);
 
-        JPanel c=new JPanel();  // 이렇게 컬러값을 생성 후
+        JPanel c=new JPanel();  // 인덱스 배경화면 패널
         c.setBackground(b);
         add(c);
 
