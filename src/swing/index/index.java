@@ -76,7 +76,7 @@ public class index extends javax.swing.JFrame {
         toolbar.add(serchbar);
         JButton btn5 = new JButton("검색");
         btn5.setPreferredSize(new Dimension(150, 20));
-
+        btn5.setBounds(880, 10, 80, 30);
         toolbar.add(btn5);
         Color b=new Color(46, 64, 89);
         pN.setBackground(b);
